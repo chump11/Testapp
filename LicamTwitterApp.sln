@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LicamTwitterApp", "LicamTwitterApp\LicamTwitterApp.csproj", "{9E77EE82-8C28-43CB-BD9D-7FDE294DC597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitter.Api", "Twitter.Api\Twitter.Api.csproj", "{EB2A0CEC-B688-4CC1-A42B-E91585017CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitter.Api.Test", "Twitter.Api.Test\Twitter.Api.Test.csproj", "{6BF93865-548A-4A29-BC9F-8B26B8B0A171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E77EE82-8C28-43CB-BD9D-7FDE294DC597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E77EE82-8C28-43CB-BD9D-7FDE294DC597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E77EE82-8C28-43CB-BD9D-7FDE294DC597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E77EE82-8C28-43CB-BD9D-7FDE294DC597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2A0CEC-B688-4CC1-A42B-E91585017CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2A0CEC-B688-4CC1-A42B-E91585017CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2A0CEC-B688-4CC1-A42B-E91585017CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2A0CEC-B688-4CC1-A42B-E91585017CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF93865-548A-4A29-BC9F-8B26B8B0A171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF93865-548A-4A29-BC9F-8B26B8B0A171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF93865-548A-4A29-BC9F-8B26B8B0A171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF93865-548A-4A29-BC9F-8B26B8B0A171}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A13F0D6-6501-4A1C-B7C2-ED5407AF310E}
+	EndGlobalSection
+EndGlobal

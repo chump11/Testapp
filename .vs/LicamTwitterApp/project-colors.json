@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9e77ee82-8c28-43cb-bd9d-7fde294dc597": {
+      "ProjectGuid": "9e77ee82-8c28-43cb-bd9d-7fde294dc597",
+      "DisplayName": "LicamTwitterApp",
+      "ColorIndex": 0
+    },
+    "1486cef6-21df-4844-8b48-3ab4a97e1f36": {
+      "ProjectGuid": "1486cef6-21df-4844-8b48-3ab4a97e1f36",
+      "DisplayName": "Twitter.Api",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,16 @@
+C:\Dev\LicamTwitterApp\LicamTwitterApp\bin\Debug\net6.0\LicamTwitterApp.exe
+C:\Dev\LicamTwitterApp\LicamTwitterApp\bin\Debug\net6.0\LicamTwitterApp.deps.json
+C:\Dev\LicamTwitterApp\LicamTwitterApp\bin\Debug\net6.0\LicamTwitterApp.runtimeconfig.json
+C:\Dev\LicamTwitterApp\LicamTwitterApp\bin\Debug\net6.0\LicamTwitterApp.dll
+C:\Dev\LicamTwitterApp\LicamTwitterApp\bin\Debug\net6.0\ref\LicamTwitterApp.dll
+C:\Dev\LicamTwitterApp\LicamTwitterApp\bin\Debug\net6.0\LicamTwitterApp.pdb
+C:\Dev\LicamTwitterApp\LicamTwitterApp\obj\Debug\net6.0\LicamTwitterApp.GlobalUsings.g.cs
+C:\Dev\LicamTwitterApp\LicamTwitterApp\obj\Debug\net6.0\LicamTwitterApp.csproj.AssemblyReference.cache
+C:\Dev\LicamTwitterApp\LicamTwitterApp\obj\Debug\net6.0\LicamTwitterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\LicamTwitterApp\LicamTwitterApp\obj\Debug\net6.0\LicamTwitterApp.AssemblyInfoInputs.cache
+C:\Dev\LicamTwitterApp\LicamTwitterApp\obj\Debug\net6.0\LicamTwitterApp.AssemblyInfo.cs
+C:\Dev\LicamTwitterApp\LicamTwitterApp\obj\Debug\net6.0\LicamTwitterApp.csproj.CoreCompileInputs.cache
+C:\Dev\LicamTwitterApp\LicamTwitterApp\obj\Debug\net6.0\LicamTwitterApp.dll
+C:\Dev\LicamTwitterApp\LicamTwitterApp\obj\Debug\net6.0\ref\LicamTwitterApp.dll
+C:\Dev\LicamTwitterApp\LicamTwitterApp\obj\Debug\net6.0\LicamTwitterApp.pdb
+C:\Dev\LicamTwitterApp\LicamTwitterApp\obj\Debug\net6.0\LicamTwitterApp.genruntimeconfig.cache

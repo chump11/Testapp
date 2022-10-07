@@ -1,0 +1,5 @@
+C:\Dev\LicamTwitterApp\Twitter.Api.Test\obj\Debug\net6.0\Twitter.Api.Test.csproj.AssemblyReference.cache
+C:\Dev\LicamTwitterApp\Twitter.Api.Test\obj\Debug\net6.0\Twitter.Api.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\LicamTwitterApp\Twitter.Api.Test\obj\Debug\net6.0\Twitter.Api.Test.AssemblyInfoInputs.cache
+C:\Dev\LicamTwitterApp\Twitter.Api.Test\obj\Debug\net6.0\Twitter.Api.Test.AssemblyInfo.cs
+C:\Dev\LicamTwitterApp\Twitter.Api.Test\obj\Debug\net6.0\Twitter.Api.Test.csproj.CoreCompileInputs.cache
